@@ -16,7 +16,7 @@ This project simulates a small business network with multiple departments, each 
 
 ## 🗺️ Network Topology
 
-![Network Topology](images/topology.png)
+![Network Topology](MultiVlan.png)
 *Figure 1: Logical topology showing the core switch, access switches, router, and end devices.*
 
 ```
